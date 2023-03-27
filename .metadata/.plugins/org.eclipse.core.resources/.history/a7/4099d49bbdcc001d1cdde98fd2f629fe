@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+body{
+	font-family:Arial,sans-serif;
+	background-color: #f0f0f0;
+}
+
+.container{
+	margin: 0 auto;
+	max-width:500px;
+	padding:20px;
+	background-color:#fff;
+	border-radius:5px;
+	box-shadow:0 0 10px rgba(0,0,0,0.2);
+	text-align:center;
+}
+
+h1{
+	margin-bottom:20px;
+}
+
+a{
+	display:block;
+	margin-top:20px;
+	color:#4CAF50;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+
+button{
+	
+}
+
+button:hover{
+	color: white;
+	background-color: black;
+}
